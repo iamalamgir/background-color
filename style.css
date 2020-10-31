@@ -1,0 +1,75 @@
+/*****Background-Color-Change*****/
+body{
+    margin: 0;
+    padding: 0;
+    background: #34495e;
+}
+
+.box{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    padding: 5px;
+    background: #f1f1f1;
+    border-radius: 3px;
+}
+
+.box a{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+    text-indent: -9999px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.box a:hover{
+    border: 2px solid #FF00FF;
+}
+
+#red{
+    background: #e74c3c;
+}
+#blue{
+    background: #3498db;
+}
+#green{
+    background: #2ecc71;
+}
+#yellow{
+    background: #f1c40f;
+}
+#black{
+    background: #000000;
+}
+#orange{
+    background: #e67e22;
+}
+#white{
+    background: #ffffff;
+}
+#hotpink{
+    background: #FF69B4;
+}
+#darkgreen{
+    background: #006400;
+}
+#indigo{
+    background: #4B0082;
+}
+#cyan{
+    background: #00FFFF;
+}
+#khaki{
+    background: #F0E68C;
+}
+#maroon{
+    background: #800000;
+}
+#lime{
+    background: #00FF00;
+}
+#darksalmon{
+    background: #E9967A;
+}
